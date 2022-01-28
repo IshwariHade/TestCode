@@ -15,6 +15,7 @@ public class TestClass//PascalNamingConvention
 //		System.out.println(result);
 	System.out.println("HELLOOOO");
 	System.out.print("HIIII");
+	System.out.println("heeelllooo");
 	}
 }
 
